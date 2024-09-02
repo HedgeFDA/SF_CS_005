@@ -10,7 +10,7 @@ namespace SF_CS_005
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Напишите вразу");
+            Console.WriteLine("Напишите фразу");
             string SomeString = Console.ReadLine();
 
             Console.WriteLine("Укажите глубину эха");
